@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @solexfin
 - 👀 I’m interested in blockchain
-- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Solana
-- 📫 How to reach me ...
+- 📫 How to reach me 0x01@solex.finance
 
 <!---
 solexfin/solexfin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
